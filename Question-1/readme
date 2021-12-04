@@ -1,0 +1,7 @@
+With the Observer Design Pattern, if an object is modified it broadcasts to dependent objects that a change has occurred.
+
+OR:
+
+The Observer is a behavioral JS design pattern that lets you define a subscription mechanism to notify multiple objects (observers) about any events that happen to the object (subject) they’re observing. This pattern is also called Pub/Sub, short for Publication/Subscription. It defines a one-to-many dependency between objects, promotes loose coupling, and facilitates good object-oriented design.
+
+The observer pattern is the foundation of event-driven programming. We write event handler functions that will be notified when a certain event fires.
